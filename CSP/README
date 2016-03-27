@@ -1,1 +1,6 @@
 
+1. the implementation of two constraint propagators – a Forward Checking constraint propagator, and
+a Generalized Arc Consistence (GAC) constraint propagator,
+2. the encoding of two different CSP models to solve the logic puzzle, Futoshiki, as described below.
+In one model you will use only binary not-equal constraints, while in the other model you will use
+9-ary all-different constraints in addition to binary not-equal constraints.
