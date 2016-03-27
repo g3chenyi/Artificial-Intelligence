@@ -1,0 +1,4 @@
+1. The implementation of the variable elimination algorithm. Starter code is provided which you must
+complete.
+2. Adapting the variable elimination algorithm to map possible treatments to outcomes in a medical
+decision support system application.
